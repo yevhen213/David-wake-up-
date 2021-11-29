@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.maim_title {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.sms {
+    background-color: #474141;
+    color: blue;
+    text-align: center;
+    width: 340px;
+    height: 100px;
+    float: left;
+
+}
+.email {
+    background-color:#474141;
+    color: yellow;
+    text-align: center;
+    width: 340px;
+    height: 100px;
+    float: right;
+}
+button {
+    height: 50px;
+    width: 150px;
+    margin-left: 590px;
+    margin-top: 10px;
+
+}
+img {
+    width: 50%;
+    height: 500px;
+}
